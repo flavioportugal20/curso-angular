@@ -50,9 +50,12 @@ export class DataBindingComponent implements OnInit {
     console.log(evento.novoValor);
   }
 
-  constructor() { }
+  constructor() {
+   }
 
   ngOnInit(): void {
   }
+
+  
 
 }
